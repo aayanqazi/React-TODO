@@ -1,0 +1,50 @@
+.sidebar
+{
+    background-color: rgb(42,63,84);
+    position:fixed;
+    top:51px;
+    left:0;
+    bottom:0;
+    padding:40px;
+}
+#app
+{
+    padding-top:141px;
+}
+
+ul li.focused{
+    color:black;
+    background-color:#41c7c2;
+}
+hr
+{
+   border: 0;
+    height: 0; /* Firefox... */
+    box-shadow: 0 0 10px 1px white;
+}
+p{
+    color:floralwhite;
+}
+.img-responsive
+{
+    border-radius:50%;
+}
+.nav-sidebar>li>a
+{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size:13px;
+    text-shadow: 2px 2px black;
+}
+.Last
+{
+    position: absolute; 
+    bottom: 0;
+}
+.nav-sidebar>li>a:hover
+{
+    color:white;
+    background-color: rgba(53,71,93,0.9);
+}
+
