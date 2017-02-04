@@ -16,6 +16,10 @@ ul li.focused{
     color:black;
     background-color:#41c7c2;
 }
+ul li.focused{
+    color:black;
+    background-color:#41c7c2;
+}
 hr
 {
    border: 0;
